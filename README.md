@@ -1,1 +1,1 @@
-[Portfolio](/portfolio)
+[Portfolio](portfolio)
