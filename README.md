@@ -1,1 +1,1 @@
-[Portfolio](valpaliy.github.io/portfolio)
+[Portfolio](/portfolio)
